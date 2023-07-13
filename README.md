@@ -65,4 +65,6 @@ KEY QUESTIONS (To be addressed using Dashboard)
 
 9) What are popular plans among Non-Premium users?
 
-10) What are popular plans among Premium users? 
+10) What are popular plans among Premium users?
+
+Tableau Dashboard Link: https://public.tableau.com/views/SpotifyUserBehavior/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
